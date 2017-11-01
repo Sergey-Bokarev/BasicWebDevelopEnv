@@ -1,0 +1,19 @@
+{
+  "name": "basicenv",
+  "version": "0.1.0",
+  "description": "\u0016BasicWebDevelopEnv",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darckstalker/BasicWebDevelopEnv.git"
+  },
+  "author": "Serg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darckstalker/BasicWebDevelopEnv/issues"
+  },
+  "homepage": "https://github.com/darckstalker/BasicWebDevelopEnv#readme"
+}
