@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/darckstalker/BasicWebDevelopEnv/issues"
   },
-  "homepage": "https://github.com/darckstalker/BasicWebDevelopEnv#readme"
+  "homepage": "https://github.com/darckstalker/BasicWebDevelopEnv#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^3.1.0"
+  }
 }
